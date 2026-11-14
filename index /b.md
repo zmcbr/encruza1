@@ -5,7 +5,7 @@ b
 .
 .
 .
-[a](./a.md)
+[a](index/a.md)
 .
 .
 c
