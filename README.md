@@ -11,9 +11,9 @@ a
 [a](index\a.md)
 [a](.\a.md)
 [a](./a.md)
-[a](https://github.com/zmcbr/encruza.github.io/edit/main/index/a.md)
+[a](https://github.com/zmcbr/encruza.github.io/index/a.md)
 
-[a](https://github.com/zmcbr/encruza.github.io/edit/main/index/a.html)
+[a](https://github.com/zmcbr/encruza.github.io/index/a.html)
 
 
 b
