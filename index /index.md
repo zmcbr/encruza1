@@ -9,6 +9,9 @@ a
 [a](./a.md)
 [a](https://github.com/zmcbr/encruza.github.io/edit/main/index/a.md)
 
+[a](https://github.com/zmcbr/encruza.github.io/edit/main/index/a.html)
+
+
 b
 
 c
